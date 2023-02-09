@@ -7,3 +7,5 @@ parent: UNIIQ Management API
 ---
 
 # Customer API
+
+The Customers API enables you to create and manage customer in UNIIQ System.

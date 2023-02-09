@@ -7,3 +7,5 @@ parent: UNIIQ Management API
 ---
 
 # Package API
+
+The Package API enables you to create and manage Content Provider's Package in UNIIQ System.
