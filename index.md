@@ -1,7 +1,7 @@
 ---
 layout: default
 title: UNIIQ Management API
-nav_order: 1
+has_children: true
 ---
 
 # UNIIQ Management API Documentation

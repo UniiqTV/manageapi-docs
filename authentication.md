@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Authentication
-nav_order: 2
+nav_order: 1
+parent: UNIIQ Management API
 ---
 
 
