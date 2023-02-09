@@ -1,3 +1,8 @@
+---
+layout: default
+title: UNIIQ Management API
+nav_order: 1
+---
 
 # UNIIQ Management API Documentation
 
