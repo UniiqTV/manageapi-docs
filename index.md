@@ -2,6 +2,7 @@
 layout: default
 title: UNIIQ Management API
 has_children: true
+has_toc: false
 ---
 
 # UNIIQ Management API Documentation
@@ -13,7 +14,7 @@ Pre requisite on using Management API Account:
 * UNIIQ Management Account with (Content Provider / Service Provider) access.
 * Complete verifications – you need to do this before you start your technical integration. Also ensure you’re compliant with our Terms and Conditions and Acceptable Use Policy. Also make sure two-step log in is set up.
 
-# Table Of Contents
+## Table Of Contents
 1. [Authentication](authentication.md)
 2. [Customer Functions](customer/index.md)
 	1. [Customer List]()
