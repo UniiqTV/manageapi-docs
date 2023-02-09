@@ -14,8 +14,8 @@ POST http://manageapi.uniiq.id/auth
 Content-Type: application/json
 
 {
-"username": "(your content-provider / service provider username)",
-"password": "(your content-provider / service provider password)"
+"username": "(your content-provider / service-provider username)",
+"password": "(your content-provider / service-provider password)"
 }
 ```
 
@@ -40,4 +40,4 @@ Content-Type: application/json
 	- enabled: user status
 	- status : status user in database
 - *status* : response status for the request
-- *message* : description for response status 
+- *message* : description for response status
