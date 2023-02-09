@@ -17,7 +17,7 @@ Pre requisite on using Management API Account:
 ## Table Of Contents
 1. [Authentication](authentication.md)
 2. [Customer Functions](customer/index.md)
-	1. [Customer List]()
+	1. [Customer List](customer/customer-list.md)
 	2. [Customer Detail By Customer ID]()
 	3. [Customer Detail By Internal Customer ID]()
 	4. [Create New Customer]() 
