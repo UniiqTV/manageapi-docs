@@ -14,12 +14,14 @@ Pre requisite on using Management API Account:
 * Complete verifications – you need to do this before you start your technical integration. Also ensure you’re compliant with our Terms and Conditions and Acceptable Use Policy. Also make sure two-step log in is set up.
 
 # Table Of Contents
-1. [Customer Functions](customer/index.md)
+1. [Authentication](authentication.md)
+2. [Customer Functions](customer/index.md)
 	1. [Customer List]()
 	2. [Customer Detail By Customer ID]()
 	3. [Customer Detail By Internal Customer ID]()
 	4. [Create New Customer]() 
-2. [Package Functions](package/index.md)
+3. [Package Functions](package/index.md)
 	1. [Package List]()
 	2. [Create New Package]()
 	3. [Disable Package]() 
+
