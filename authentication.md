@@ -1,3 +1,9 @@
+---
+layout: default
+title: Authentication
+nav_order: 2
+---
+
 
 ## Authentication
 manage api use bearer token authentication, to get bearer token authentication you need to use your login and password that registered to uniiq service
