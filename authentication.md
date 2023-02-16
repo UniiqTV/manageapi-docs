@@ -10,7 +10,7 @@ parent: UNIIQ Management API
 manage api use bearer token authentication, to get bearer token authentication you need to use your login and password that registered to uniiq service
 
 ```json
-POST http://manageapi.uniiq.id/auth
+POST https://manageapi.uniiq.id/auth
 Content-Type: application/json
 
 {
