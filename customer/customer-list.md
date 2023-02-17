@@ -7,3 +7,5 @@ grand_parent: UNIIQ Management API
 ---
 
 # Customer List
+
+manage api use to get customer-list from uniiq service by username authentication
