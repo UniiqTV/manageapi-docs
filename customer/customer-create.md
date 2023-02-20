@@ -8,10 +8,10 @@ grand_parent: UNIIQ Management API
 
 # Create New Customer
 
-manage api use to create customer from uniiq service by username authentication
+manage api use to create new customer from uniiq service
 
 ```json
-GET https://manageapi.uniiq.id/api/customer/new
+POST https://manageapi.uniiq.id/api/customer/new
 Authentication : Bearer token
 Content-Type: application/json
 
