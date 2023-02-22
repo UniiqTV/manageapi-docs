@@ -12,8 +12,8 @@ manage api use to create new customer from uniiq service
 
 ```json
 POST https://manageapi.uniiq.id/api/customer/new
-Authentication : Bearer token
 Content-Type: application/json
+Authorization: Bearer {{token}}
 
 {
     "name": "(your name)",
