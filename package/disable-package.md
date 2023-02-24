@@ -8,6 +8,8 @@ grand_parent: UNIIQ Management API
 
 # Disable Package
 
+manage api use to disable package customer from uniiq service
+
 ```json
 POST https://manageapi.uniiq.id/api/package/disable
 Content-Type: application/json
