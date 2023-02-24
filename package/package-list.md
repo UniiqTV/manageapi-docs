@@ -95,4 +95,4 @@ Authorization: Bearer {{token}}
 - *qualityLow* : this is status for the qualityLow
 - *qualityMedium* : this is status for the qualityMedium
 - *qualityHigh* : this is status for the qualityHigh
-- *country* : this is ID from country
+- *country* : this is country code
