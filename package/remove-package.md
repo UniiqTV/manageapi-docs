@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Disable Package
+title: Remove Package
 nav_order: 3
 parent: Package API
 grand_parent: UNIIQ Management API
 ---
 
-# Disable Package
+# Remove Package
 
-manage api use to disable package customer from uniiq service
+manage api use to remove package customer from uniiq service
 
 ```json
 POST https://manageapi.uniiq.id/api/package/disable

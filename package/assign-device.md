@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Disable Package
+title: Assign Device
 nav_order: 3
 parent: Package API
 grand_parent: UNIIQ Management API
 ---
 
-# Disable Package
+# Assign Package
 
-manage api use to disable package customer from uniiq service
+manage api use to assign package to device customer from uniiq service
 
 ```json
 POST https://manageapi.uniiq.id/api/device/assign
