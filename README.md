@@ -17,4 +17,7 @@ Pre requisite on using Management API Account:
 3. [Package Functions](package/index.md)
 	1. [Package List](package/package-list.md)
 	2. [Create New Package](package/create-package.md)
-	3. [Disable Package](package/disable-package.md) 
+	3. [Disable Package](package/disable-package.md)
+	4. [Remove Package](package/remove-package.md)
+	5. [Remove Device](package/remove-device.md)
+	6. [Assign Device](package/assign-device.md) 
