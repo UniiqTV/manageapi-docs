@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assign Device
-nav_order: 3
+nav_order: 1
 parent: Device API
 grand_parent: UNIIQ Management API
 ---
