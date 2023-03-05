@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Create Package
+title: Assign Package To User
 nav_order: 2
 parent: Package API
 grand_parent: UNIIQ Management API
 ---
 
-# Create Package
+# Assign Package
 
-manage api use to create new package customer from uniiq service
+manage api use to Assign new package to customer from uniiq service
 
 ```json
 POST https://manageapi.uniiq.id/api/package/new
